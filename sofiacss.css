@@ -41,7 +41,8 @@ html {
 
 p {
   font-family: "apercu", 'Helvetica Neue', "Arial", sans-serif;
-  line-height: 20px;
+  font-size: 18px;
+  line-height: 27px;
   color: #fff;
 }
 

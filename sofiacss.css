@@ -10,17 +10,6 @@
  url('./fonts/apercu_medium-webfont.svg#apercu_mediumregular') format('svg');
   }
 
-@font-face {
-  font-family: 'apercu';
-  font-style: normal;
-  font-weight: normal;
-  src: url('./fonts/apercu_regular-webfont.eot');
-  src: url('./fonts/apercu_regular-webfont.eot?#iefix') format('embedded-opentype'),
- url('./fonts/apercu_regular-webfont.woff') format('woff'),
- url('./fonts/apercu_regular-webfont.ttf') format('truetype'),
- url('./fonts/apercu_regular-webfont.svg#apercuregular') format('svg');
-  }
-
 
 html { 
   background: url(images/bg.jpg) no-repeat center center fixed; 
@@ -40,7 +29,7 @@ html {
 }
 
 p {
-  font-family: "apercu", 'Helvetica Neue', "Arial", sans-serif;
+  font-family: "apercumedium", 'Helvetica Neue', "Arial", sans-serif;
   font-size: 18px;
   line-height: 27px;
   color: #fff;
